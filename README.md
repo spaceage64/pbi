@@ -3,6 +3,6 @@ Here I'll store some useful code for transforming data in Power BI. May also wor
 
 | File  | Description |
 | ------------- | ------------- |
-| clean_text.m  | Simple function to cleanse your data by converting text to basic characters. |
-| country_flags.m  | Function to store images as Base64 in tables, to display them in reports. |
+| [clean_text.m](clean_text.m) | Simple function to cleanse your data by converting text to basic characters. |
+| [country_flags.m](country_flags.m) | Function to store images as Base64 in tables, to display them in reports. |
 | ... | ... |
